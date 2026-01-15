@@ -15,3 +15,17 @@ The dataset is publicly available for the 5 books.
 - Calculate the different centralities measures and provide inference
 - Create Network Graphs using Plotly
 - Run Louvain Community Detection and find out different groups/communities in the data
+
+## **Installing the necessary libraries**
+
+Let's start by installing the necessary libraries:
+
+**1. Plotly:** use the code !pip install plotly
+
+**2. Community:** use the code !pip install community
+
+**3. Python-Louvain:** use the code !pip install python-louvain
+
+**4. Colorlover:** use the code !pip install colorlover
+
+Please note that **the above libraries need to be installed only while running the notebook for the first time**
